@@ -1,0 +1,143 @@
+.savva{
+    position: absolute;
+    border-radius: 20%;
+    top: 20px;
+    margin-left: 520px;
+    width: 300px;
+    height: 300px;
+}
+.facts{
+    position: absolute;
+    margin-left: 830px;
+    top: 100px;
+}
+.full_name{
+    position: absolute;
+    top: 100px;
+    margin-left: 320px;
+}
+.container-fluid{
+    position: absolute;
+    top: 330px;
+}
+.text-description{
+    position: absolute;
+    margin-left: 300px;
+    margin-right: 200px;
+}
+.feedback{
+    margin-left: 300px;
+}
+.hfeedback{
+    font-size: 40px;
+    margin-left: 300px;
+}
+.feedback-div{
+    position: absolute;
+    top: 200px;
+
+}
+.example1{
+    position: absolute;
+    top: 150px;
+    margin-left: 300px;
+    width: 300px;
+    height: 300px;
+}
+.example2{
+    position: absolute;
+    top: 150px;
+    margin-left: 700px;
+    width: 300px;
+    height: 300px;
+}
+.example3{
+    position: absolute;
+    top: 150px;
+    margin-left: 1100px;
+    width: 300px;
+    height: 300px;
+}
+.example4{
+    position: absolute;
+    top: 500px;
+    margin-left: 300px;
+    width: 300px;
+    height: 300px;
+}
+.example5{
+    position: absolute;
+    top: 500px;
+    margin-left: 700px;
+    width: 300px;
+    height: 300px;
+}
+.example6{
+    position: absolute;
+    top: 500px;
+    margin-left: 1100px;
+    width: 300px;
+    height: 300px;
+}
+
+.hexamples{
+    position: absolute;
+    top: 50px;
+    font-size: 40px;
+    margin-left: 300px;
+}
+.gradient-text {
+    background-image: linear-gradient(to right, #ff0000, #ff0000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.feedback-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.feedback-form .form-group {
+    margin-bottom: 20px;
+}
+
+.feedback-form input[type="text"],
+.feedback-form input[type="email"],
+.feedback-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.feedback-form input[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #ff0000;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.feedback-form input[type="submit"]:hover {
+    background-color: #ff3333;
+}
+.gradient-text {
+    background-image: linear-gradient(to right, blue, aqua);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.gradient-button {
+    background: linear-gradient(to right, blue, aqua);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.gradient-button:hover {
+    background: linear-gradient(to right, aqua, blue);
+}
